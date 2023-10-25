@@ -275,6 +275,7 @@ const deck = [
   },
 ];
 
+//Begin Random Selection Testing
 let a = 1;
 
 const newArray = deck.filter(function (diff) {
